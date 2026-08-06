@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://inanialice.github.io/sitemap.xml
