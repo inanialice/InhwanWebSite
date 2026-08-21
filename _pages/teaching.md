@@ -2,10 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching and mentoring
-description: Course materials, schedules, and resources for classes taught.
+# description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 6
-calendar: true
+# calendar: true
 ---
 
 This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
