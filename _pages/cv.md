@@ -1,12 +1,10 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: https://drive.google.com/file/d/1e_gRIHSsclYOX4LVHC4Tt3iWsxZuHJyi/view?usp=sharing # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
 description:
-toc:
-  sidebar: left
 ---
+
+<iframe src="https://drive.google.com/file/d/1e_gRIHSsclYOX4LVHC4Tt3iWsxZuHJyi/preview" width="100%" height="1000" style="border: none;" allow="autoplay"></iframe>
