@@ -73,6 +73,6 @@ term: Fall
 ## Teaching Evaluations
 
 - Overall instructor rating: [4.61 / 5]
-> "The TA was very approachable and easy to speak to about questions. Discussion helped review material learned in class."
-> "She is amazing! You know she cares and takes so much time to help students."
-> "TA Inhwan Bae is an incredible lecturer and an understanding individual. They ensure that all students feel comfortable to share their perspectives. They encourage active participation in discussion, and they ensure everyone feels comfortable to participate. I appreciated that they were willing to answer course questions via email outside of class time and genuinely cared about student success."
+  > "The TA was very approachable and easy to speak to about questions. Discussion helped review material learned in class."
+  > "She is amazing! You know she cares and takes so much time to help students."
+  > "TA Inhwan Bae is an incredible lecturer and an understanding individual. They ensure that all students feel comfortable to share their perspectives. They encourage active participation in discussion, and they ensure everyone feels comfortable to participate. I appreciated that they were willing to answer course questions via email outside of class time and genuinely cared about student success."

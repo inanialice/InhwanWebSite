@@ -69,4 +69,3 @@ term: Summer
       - name: Assignment 3
         url: /assets/pdf/example_pdf.pdf
 ---
-

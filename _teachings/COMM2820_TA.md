@@ -73,4 +73,4 @@ term: Spring
 ## Teaching Evaluations
 
 - Overall instructor rating: [4.9 / 5]
-> "knowledgable about class, helps with assignments"
+  > "knowledgable about class, helps with assignments"
